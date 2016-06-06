@@ -1,0 +1,6 @@
+﻿{
+  "projects": [ "src", "test", "../Folke.Elm/src", "../Folke.Mvc.Extensions/src" ],
+  "sdk": {
+    "version": "1.0.0-preview1-002702"
+  }
+}

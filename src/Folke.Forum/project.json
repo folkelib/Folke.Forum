@@ -1,0 +1,28 @@
+﻿{
+  "version": "1.1.0-*",
+  "description": "Folke.Forum Class Library",
+  "authors": [ "Sidoine" ],
+  "packOptions": {
+    "tags": [ "" ],
+    "projectUrl": "https://github.com/folkelib/Folke.Forum",
+    "licenseUrl": "http://opensource.org/licenses/MIT"
+  },
+
+    "dependencies": {
+      "Folke.Elm": "1.2.0-beta-*",
+      "Folke.Mvc.Extensions": "1.1.0-beta-*",
+      "ImageProcessorCore": "1.0.0-alpha-838"
+    },
+
+    "frameworks": {
+      "net461": {
+        "frameworkAssemblies": { }
+      },
+      "netstandard1.5": {
+        "imports": [ "dnxcore50", "portable-net45+win8" ],
+        "dependencies": {
+          "System.IO": "4.1.0-rc2-24027"
+        }
+      }
+    }
+  }
