@@ -11,7 +11,7 @@
     "dependencies": {
       "Folke.Elm": "1.3.0",
       "Folke.Mvc.Extensions": "1.3.0.1",
-      "ImageProcessorCore": "1.0.0-alpha-982"
+      "ImageProcessorCore": "1.0.0-alpha-838"
     },
 
     "frameworks": {
