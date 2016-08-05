@@ -6,3 +6,4 @@ _NCrunch_*
 *.ncrunchsolution
 obj
 project.lock.json
+/src/Folke.Forum/Folke.Forum.xproj.user
